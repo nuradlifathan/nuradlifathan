@@ -1,12 +1,13 @@
 
-Hello there 👋,
-I am Junior Front-End Developer , still working on NextJs I'm hoping to finish my Front-End Journey and that means i should put in more efforet. I occasionally create Project for my own Portofolio. You can check them out on list below.
+Hello there 👋, I'm Adli
+---
+I am Junior Front-End Developer , still working on NextJs I'm hoping to finish my Front-End Journey and that means i should put in more effort. I occasionally create Project for my own Portofolio. You can check them out on list below.
 
 
 
 ---
 
-List of my Skills :
+## List of my Skills :
 
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
@@ -28,6 +29,7 @@ Check out some of the things I've built!
 -
 
 ---
+## Connect with me 🌏
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/nuradlifathan/)
 [![Twitch](https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-48.png)](https://www.twitch.tv/therengs)
 [![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/channel/UCIxMiPl3aAdkKN1bV_4gPvQ)
