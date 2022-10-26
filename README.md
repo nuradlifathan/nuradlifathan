@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**nuradlifathan/nuradlifathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there 👋,
+Iam Junior Front-End Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+List of my Skills
+
+
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge)
+
+---
+
+Check out some of the things I've built!
+
+-
+-
+
+---
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/nuradlifathan/)
+[![Twitch](https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-48.png)](https://www.twitch.tv/therengs)
+[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/channel/UCIxMiPl3aAdkKN1bV_4gPvQ)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/adlifathann/)
+[![Twitter](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-48.png)](https://twitter.com/thirtyzeroone)
