@@ -1,22 +1,22 @@
 
 Hello there 👋,
-Iam Junior Front-End Developer
+I am Junior Front-End Developer , still working on NextJs I'm hoping to finish my Front-End Journey and that means i should put in more efforet. I occasionally create Project for my own Portofolio. You can check them out on list below.
 
 
 
 ---
 
-List of my Skills
+List of my Skills :
 
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-Express-green?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-green?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-lightblue?style=for-the-badge)
 
 ![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge)
 
