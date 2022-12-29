@@ -1,7 +1,7 @@
 
 Hello there 👋, I'm Adli
 ---
-I am Junior FullStack Developer but more Focusing on FrontEnd Developer , still working on NextJs I'm hoping to finish my Front-End Journey and that means i should put in more effort. I occasionally create Project for my own Portofolio. You can check them out on list below.
+I am Junior Full-Stack Developer but more Focusing on Front-End Developer , still working on NextJs I'm hoping to finish my Front-End Journey and that means i should put in more effort. I occasionally create Project for my own Portofolio. You can check them out on list below.
 
 
 
