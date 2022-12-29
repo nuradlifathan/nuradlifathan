@@ -23,7 +23,7 @@ I am Junior FullStack Developer but more Focusing on FrontEnd Developer , still 
 
 ---
 
-Check out some of the things I've built!
+ Some of the Projects I've built!
 
 -
 -
