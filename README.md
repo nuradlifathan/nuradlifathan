@@ -10,10 +10,11 @@ I am Junior FullStack Developer but more Focusing on FrontEnd Developer , still 
 ## List of my Skills :
 
 
-![React JS](https://img.shields.io/badge/-ReactJs-blue?style=for-the-badge)
+![React Js](https://img.shields.io/badge/-React Js-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-green?style=for-the-badge)
-![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge)
+![Node Js](https://img.shields.io/badge/-Node Js-green?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML 5-green?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS 3-blue?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightblue?style=for-the-badge)
