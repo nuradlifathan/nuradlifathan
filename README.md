@@ -19,8 +19,6 @@ I am Junior Full-Stack Developer but more Focusing on Front-End Developer , stil
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightblue?style=for-the-badge)
 
-![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge)
-
 ---
 
  Some of the Projects I've built!
