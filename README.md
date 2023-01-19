@@ -27,7 +27,8 @@ I am Junior Full-Stack Developer but more Focusing on Front-End Developer , stil
 -
 
 ---
-## Connect with me 🌏 ![](https://komarev.com/ghpvc/?username=nuradlifathan&style=for-the-badge	)
+## Contact
+![](https://komarev.com/ghpvc/?username=nuradlifathan&style=for-the-badge	)
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/nuradlifathan/)
 [![Twitch](https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-48.png)](https://www.twitch.tv/therengs)
 [![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/channel/UCIxMiPl3aAdkKN1bV_4gPvQ)
