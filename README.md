@@ -7,7 +7,7 @@ I am Junior Full-Stack Developer but more Focusing on Front-End Developer , stil
 
 ---
 
-## List of my Skills :
+## Tech Stack Skills :
 
 
 ![React Js](https://img.shields.io/badge/-ReactJs-blue?style=for-the-badge)
