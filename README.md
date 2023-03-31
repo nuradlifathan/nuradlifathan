@@ -22,10 +22,14 @@ I am Junior Full-Stack Developer but more Focusing on Front-End Developer , stil
 
 ---
 
- Some of the Projects I've built!
+ Projects I've built!
 
--  [E-Commerce Multi Warehouse](https://jcwd220201.purwadhikabootcamp.com/)
--
+- [E-Commerce Multi Warehouse](https://jcwd220201.purwadhikabootcamp.com/)
+- Libary Website - Currently Developing
+
+Mini Project I've built !
+
+- [Weather Check](cloudchecker.vercel.app)
 
 ---
 ## Contact ![](https://komarev.com/ghpvc/?username=nuradlifathan&style=flat-square		)
