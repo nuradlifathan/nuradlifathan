@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adli
 
-Junior **Full-Stack Developer** with strong focus on **Front-End Development** using **Next.js**.  
+**Full-Stack Developer** with strong focus on **Front-End Development** using **Next.js - React.js - Vite**.  
 I enjoy building real-world applications and continuously improving my UI, performance, and code architecture skills.
 
 I’m currently working on a **large-scale portfolio project** while still developing mini projects to sharpen my skills.
@@ -33,10 +33,8 @@ I’m currently working on a **large-scale portfolio project** while still devel
 
 ### 👟 Foot-Lab *(In Progress)*
 A modern footwear e-commerce web application focusing on:
-- Clean UI & UX
-- Product catalog & filtering
-- Shopping cart
-- Order flow
+- Football Management Games
+- Live Football Top Leagues Standings
 - Optimized front-end performance
 
 > This is my current **main portfolio project**.
