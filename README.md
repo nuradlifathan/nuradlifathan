@@ -1,37 +1,58 @@
+# 👋 Hi, I'm Adli
 
-What's up 👋, I'm Adli
+Junior **Full-Stack Developer** with strong focus on **Front-End Development** using **Next.js**.  
+I enjoy building real-world applications and continuously improving my UI, performance, and code architecture skills.
+
+I’m currently working on a **large-scale portfolio project** while still developing mini projects to sharpen my skills.
+
 ---
-I am Junior Full-Stack Developer but more Focusing on Front-End Developer , still working on NextJs I'm hoping to finish my Front-End Journey and that means i should put in more effort. I occasionally create Project for my own Portofolio. You can check them out on list below.
 
 ![Adli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuradlifathan&show_icons=true&theme=transparent)
 
-
 ---
 
-## Tech Stack Skills :
+## 🧰 Tech Stack
 
-
-![React Js](https://img.shields.io/badge/-ReactJs-blue?style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
-![Node Js](https://img.shields.io/badge/-NodeJs-green?style=for-the-badge)
+### Front-End
+![React](https://img.shields.io/badge/-ReactJs-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge)
 
-![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-lightblue?style=for-the-badge)
+### Back-End
+![Node.js](https://img.shields.io/badge/-NodeJs-green?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-darkgreen?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=for-the-badge)
 
 ---
 
- Projects I've built!
+## 🚀 Main Projects
 
-- [E-Commerce Multi Warehouse](https://jcwd220201.purwadhikabootcamp.com/)
-- Libary Website - Currently Developing
+### 👟 Foot-Lab *(In Progress)*
+A modern footwear e-commerce web application focusing on:
+- Clean UI & UX
+- Product catalog & filtering
+- Shopping cart
+- Order flow
+- Optimized front-end performance
 
-Mini Project I've built !
-
-- [Weather Check 1](https://cloudchecker.vercel.app)
+> This is my current **main portfolio project**.
 
 ---
-## Contact ![](https://komarev.com/ghpvc/?username=nuradlifathan&style=flat-square		)
+
+## 🧩 Mini Projects
+
+### ☁️ Weather Check
+🔗 https://cloudchecker.vercel.app  
+A simple and fast weather app built using public weather APIs and modern front-end tools.
+
+---
+
+## 📫 Contact Me  
+![](https://komarev.com/ghpvc/?username=nuradlifathan&style=flat-square)
+
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/nuradlifathan/)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/adlifathann/)
